@@ -1,3 +1,7 @@
 structlog
 langchain
 pydantic
+fastapi
+langchain_community
+
+-e.
