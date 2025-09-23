@@ -3,5 +3,7 @@ langchain
 pydantic
 fastapi
 langchain_community
+langchain_groq
+langchain_google_genai
 
 -e.
